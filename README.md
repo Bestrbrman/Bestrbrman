@@ -16,3 +16,4 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=Bestrbrman&show_icons=true&theme=radical&count_private=true" alt="GitHub 统计" style="width: 48%;"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bestrbrman&layout=compact&theme=radical" alt="常用语言" style="width: 48%;"/>
 </div>
+<img src="https://pics0.baidu.com/feed/b64543a98226cffc903fa30d9b7e6d9ff703ea82.jpeg?token=041493e1ac76632d9041b6188611a004" style="width: 100px; border-radius: 50%;" />
