@@ -1,5 +1,5 @@
 ## Hi there 👋
-<img src="https://pics0.baidu.com/feed/b64543a98226cffc903fa30d9b7e6d9ff703ea82.jpeg?token=041493e1ac76632d9041b6188611a004" style="width: 100px; border-radius: 50%;" />
+
 <!--
 **Bestrbrman/Bestrbrman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
